@@ -1,0 +1,123 @@
+{
+  "categories": [
+    {
+      "id": "coffee",
+      "displayName": "Кофе",
+      "products": [
+        {
+          "id": "americano",
+          "displayName": "Американо",
+          "prices": {
+            "0,2": 99,
+            "0,3": 160,
+            "0,4": 190
+          }
+        },
+        {
+          "id": "cappuccino",
+          "displayName": "Капучино",
+          "prices": {
+            "0,2": 99,
+            "0,3": 170,
+            "0,4": 220,
+            "0,6": 270
+          }
+        },
+        {
+          "id": "latte",
+          "displayName": "Латте",
+          "prices": {
+            "0,2": 99,
+            "0,3": 170,
+            "0,4": 220,
+            "0,6": 260
+          }
+        },
+        {
+          "id": "flat-white",
+          "displayName": "Флэт Уайт",
+          "prices": {
+            "0,2": 150,
+            "0,3": 230,
+            "0,4": 290,
+            "0,6": 350
+          }
+        },
+        {
+          "id": "raf",
+          "displayName": "Раф 11%",
+          "prices": {
+            "0,2": 140,
+            "0,3": 210,
+            "0,4": 260,
+            "0,6": 330
+          }
+        },
+        {
+          "id": "mocachino",
+          "displayName": "Моккачино",
+          "prices": {
+            "0,2": 120,
+            "0,3": 190,
+            "0,4": 210,
+            "0,6": 260
+          }
+        },
+        {
+          "id": "ice-latte",
+          "displayName": "ICE-Латте",
+          "prices": {
+            "0,3": 170,
+            "0,4": 210,
+            "0,6": 260
+          }
+        }
+      ]
+    },
+    {
+      "id": "non-coffee",
+      "displayName": "Не кофе",
+      "products": [
+        {
+          "id": "cacao-100",
+          "displayName": "Какао 100%",
+          "prices": {
+            "0,3": 150,
+            "0,4": 200
+          }
+        },
+        {
+          "id": "hot-chocolate",
+          "displayName": "Горячий шоколад",
+          "prices": {
+            "0,3": 160,
+            "0,4": 210
+          }
+        },
+        {
+          "id": "matcha",
+          "displayName": "Матча",
+          "prices": {
+            "0,3": 170,
+            "0,4": 220
+          }
+        },
+        {
+          "id": "hot-cold-orange",
+          "displayName": "Горячий-холодный апельсин",
+          "prices": {
+            "0,3": 160,
+            "0,4": 200
+          }
+        }
+      ]
+    }
+  ],
+  "sirups": [
+    {
+      "id": "",
+      "displayName": "",
+      "price": ""
+    }
+  ]
+}
