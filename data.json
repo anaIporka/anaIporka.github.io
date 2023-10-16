@@ -7,6 +7,7 @@
       "products": [
         {
           "id": "americano",
+          "categoryId": "coffee",
           "displayName": "Американо",
           "prices": {
             "0,2": 99,
@@ -16,6 +17,7 @@
         },
         {
           "id": "cappuccino",
+          "categoryId": "coffee",
           "displayName": "Капучино",
           "prices": {
             "0,2": 99,
@@ -26,6 +28,7 @@
         },
         {
           "id": "latte",
+          "categoryId": "coffee",
           "displayName": "Латте",
           "prices": {
             "0,2": 99,
@@ -36,6 +39,7 @@
         },
         {
           "id": "flat-white",
+          "categoryId": "coffee",
           "displayName": "Флэт Уайт",
           "prices": {
             "0,2": 150,
@@ -46,6 +50,7 @@
         },
         {
           "id": "raf",
+          "categoryId": "coffee",
           "displayName": "Раф 11%",
           "prices": {
             "0,2": 140,
@@ -56,6 +61,7 @@
         },
         {
           "id": "mocachino",
+          "categoryId": "coffee",
           "displayName": "Моккачино",
           "prices": {
             "0,2": 120,
@@ -66,6 +72,7 @@
         },
         {
           "id": "ice-latte",
+          "categoryId": "coffee",
           "displayName": "ICE-Латте",
           "prices": {
             "0,3": 170,
@@ -82,6 +89,7 @@
       "products": [
         {
           "id": "cacao-100",
+          "categoryId": "non-coffee",
           "displayName": "Какао 100%",
           "prices": {
             "0,3": 150,
@@ -90,6 +98,7 @@
         },
         {
           "id": "hot-chocolate",
+          "categoryId": "non-coffee",
           "displayName": "Горячий шоколад",
           "prices": {
             "0,3": 160,
@@ -98,6 +107,7 @@
         },
         {
           "id": "matcha",
+          "categoryId": "non-coffee",
           "displayName": "Матча",
           "prices": {
             "0,3": 170,
@@ -106,6 +116,7 @@
         },
         {
           "id": "hot-cold-orange",
+          "categoryId": "non-coffee",
           "displayName": "Горячий-холодный апельсин",
           "prices": {
             "0,3": 160,
@@ -121,6 +132,7 @@
       "products": [
         {
           "id": "raf-shishka-bonus",
+          "categoryId": "season-drinks",
           "displayName": "Раф Шишка+бонус",
           "prices": {
             "0,4": 380
@@ -128,6 +140,7 @@
         },
         {
           "id": "latte-na-100-ballov",
+          "categoryId": "season-drinks",
           "displayName": "Латте на 100 баллов",
           "prices": {
             "0,4": 330
@@ -135,6 +148,7 @@
         },
         {
           "id": "raf-malina-peach",
+          "categoryId": "season-drinks",
           "displayName": "Раф Малина-Персик",
           "prices": {
             "0,4": 370
@@ -142,6 +156,7 @@
         },
         {
           "id": "capuch-oreh-mint",
+          "categoryId": "season-drinks",
           "displayName": "Орех-Мята (Капучино)",
           "prices": {
             "0,4": 320
@@ -149,6 +164,7 @@
         },
         {
           "id": "raf-mindal-vishn",
+          "categoryId": "season-drinks",
           "displayName": "Миндально-Вишневый (Раф)",
           "prices": {
             "0,4": 360
@@ -156,6 +172,7 @@
         },
         {
           "id": "raf-pryanaya-tikva",
+          "categoryId": "season-drinks",
           "displayName": "Пряная тыква (Латте)",
           "prices": {
             "0,4": 300
@@ -163,6 +180,7 @@
         },
         {
           "id": "vishnya-american",
+          "categoryId": "season-drinks",
           "displayName": "Вишня-Американец",
           "prices": {
             "0,4": 300
@@ -170,6 +188,7 @@
         },
         {
           "id": "pryaniy-bro",
+          "categoryId": "season-drinks",
           "displayName": "Пряный Bro",
           "prices": {
             "0,4": 330
@@ -177,6 +196,7 @@
         },
         {
           "id": "raf-thug-life",
+          "categoryId": "season-drinks",
           "displayName": "Thug Life (Раф)",
           "prices": {
             "0,4": 400
@@ -184,6 +204,7 @@
         },
         {
           "id": "super-mint-tea",
+          "categoryId": "season-drinks",
           "displayName": "Супер мятный чай",
           "prices": {
             "0,4": 270
@@ -191,6 +212,7 @@
         },
         {
           "id": "chef-coffee",
+          "categoryId": "season-drinks",
           "displayName": "Кофе от Шефа",
           "prices": {
             "0,4": 360
@@ -198,6 +220,7 @@
         },
         {
           "id": "latte-klinovaya-melon",
+          "categoryId": "season-drinks",
           "displayName": "Кленовая Дынька (Латте)",
           "prices": {
             "0,4": 310
@@ -205,6 +228,7 @@
         },
         {
           "id": "ejevichniy-cappuch",
+          "categoryId": "season-drinks",
           "displayName": "Ежевичный капучино",
           "prices": {
             "0,4": 300
@@ -212,6 +236,7 @@
         },
         {
           "id": "latte-fiesta",
+          "categoryId": "season-drinks",
           "displayName": "Fiesta (Латте)",
           "prices": {
             "0,4": 330
@@ -219,6 +244,7 @@
         },
         {
           "id": "orange-tea",
+          "categoryId": "season-drinks",
           "displayName": "Цитрусовый чай",
           "prices": {
             "0,4": 280
@@ -226,6 +252,7 @@
         },
         {
           "id": "raf-khalva-peach",
+          "categoryId": "season-drinks",
           "displayName": "Раф Халва-Персик",
           "prices": {
             "0,4": 360
@@ -233,6 +260,7 @@
         },
         {
           "id": "oblepikh-tea",
+          "categoryId": "season-drinks",
           "displayName": "Облепиховый чай",
           "prices": {
             "0,4": 260
@@ -247,31 +275,37 @@
       "products": [
         {
           "id": "sandwich-chicken",
+          "categoryId": "food",
           "displayName": "Сендвич с курицей",
           "price": 250
         },
         {
           "id": "sandwich-pork-cheese",
+          "categoryId": "food",
           "displayName": "Сендвич с Ветчиной и сыром",
           "price": 260
         },
         {
           "id": "sandwich-pepperony-cheese",
+          "categoryId": "food",
           "displayName": "Сендвич Салями-пармезан",
           "price": 280
         },
         {
           "id": "croissant-salmon",
+          "categoryId": "food",
           "displayName": "Круассан с лососем",
           "price": 300
         },
         {
           "id": "cheesy-croissant",
+          "categoryId": "food",
           "displayName": "Круассан сырный",
           "price": 270
         },
         {
           "id": "veg-croissant",
+          "categoryId": "food",
           "displayName": "Круассан овощной",
           "price": 270
         }
@@ -289,16 +323,18 @@
       "products": [
         {
           "id": "default",
+          "categoryId": "milk",
           "displayName": "Коровье",
           "prices": {
-            "0,2": 60,
-            "0,3": 70,
-            "0,4": 90,
-            "0,6": 120
+            "0,2": 0,
+            "0,3": 0,
+            "0,4": 0,
+            "0,6": 0
           }
         },
         {
           "id": "coconut",
+          "categoryId": "milk",
           "displayName": "Кокосовое",
           "prices": {
             "0,2": 60,
@@ -309,6 +345,7 @@
         },
         {
           "id": "midal",
+          "categoryId": "milk",
           "displayName": "Миндальное",
           "prices": {
             "0,2": 60,
@@ -319,6 +356,7 @@
         },
         {
           "id": "banana-milk",
+          "categoryId": "milk",
           "displayName": "Банановое",
           "prices": {
             "0,2": 60,
@@ -329,6 +367,7 @@
         },
         {
           "id": "funduchnoe",
+          "categoryId": "milk",
           "displayName": "Фундучное",
           "prices": {
             "0,2": 60,
@@ -339,6 +378,7 @@
         },
         {
           "id": "bezlaktoz",
+          "categoryId": "milk",
           "displayName": "Безлактозное",
           "prices": {
             "0,2": 60,
@@ -358,11 +398,13 @@
       "products": [
         {
           "id": "korica",
+          "categoryId": "free-addits",
           "displayName": "Корица",
           "price": 0
         },
         {
           "id": "sugar",
+          "categoryId": "free-addits",
           "displayName": "Сахар",
           "price": 0
         }
@@ -372,207 +414,247 @@
       "id": "sirups",
       "type": "drinks",
       "height": "110px",
-      "multiSelect": true,
+      "isNumberCount": true,
       "priceByDrinkVolume": false,
       "displayName": "Сиропы",
       "products": [
         {
           "id": "red-orange",
+          "categoryId": "sirups",
           "displayName": "Красный апельсин",
           "price": 40
         },
         {
           "id": "lesnoy-orekh",
+          "categoryId": "sirups",
           "displayName": "Лесной орех",
           "price": 40
         },
         {
           "id": "banana",
+          "categoryId": "sirups",
           "displayName": "Банан",
           "price": 40
         },
         {
           "id": "lavanda",
+          "categoryId": "sirups",
           "displayName": "Лаванда",
           "price": 40
         },
         {
           "id": "karamel",
+          "categoryId": "sirups",
           "displayName": "Карамель",
           "price": 40
         },
         {
           "id": "salt-karamel",
+          "categoryId": "sirups",
           "displayName": "Соленая карамель",
           "price": 40
         },
         {
           "id": "marakuya",
+          "categoryId": "sirups",
           "displayName": "Маракуйя",
           "price": 40
         },
         {
           "id": "vanil",
+          "categoryId": "sirups",
           "displayName": "Ваниль",
           "price": 40
         },
         {
           "id": "popkorn",
+          "categoryId": "sirups",
           "displayName": "Попкорн",
           "price": 40
         },
         {
           "id": "mint",
+          "categoryId": "sirups",
           "displayName": "Мята",
           "price": 40
         },
         {
           "id": "klenoviy",
+          "categoryId": "sirups",
           "displayName": "Кленовый",
           "price": 40
         },
         {
           "id": "lemongrass",
+          "categoryId": "sirups",
           "displayName": "Лемонграсс",
           "price": 40
         },
         {
           "id": "sgushonka",
+          "categoryId": "sirups",
           "displayName": "Сгущенка",
           "price": 40
         },
         {
           "id": "ejevika",
+          "categoryId": "sirups",
           "displayName": "Ежевика",
           "price": 40
         },
         {
           "id": "vishnya",
+          "categoryId": "sirups",
           "displayName": "Вишня",
           "price": 40
         },
         {
           "id": "malina",
+          "categoryId": "sirups",
           "displayName": "Малина",
           "price": 40
         },
         {
           "id": "irlandskiy",
+          "categoryId": "sirups",
           "displayName": "Ирландский",
           "price": 40
         },
         {
           "id": "mindalniy",
+          "categoryId": "sirups",
           "displayName": "Миндальный",
           "price": 40
         },
         {
           "id": "arahisovoe-oil",
+          "categoryId": "sirups",
           "displayName": "Арахисовое масло",
           "price": 40
         },
         {
           "id": "konfetka-miller",
+          "categoryId": "sirups",
           "displayName": "Конфетка Миллер",
           "price": 40
         },
         {
           "id": "sibirskaya-mint",
+          "categoryId": "sirups",
           "displayName": "Сибирская мята",
           "price": 40
         },
         {
           "id": "grenadine",
+          "categoryId": "sirups",
           "displayName": "Гренадин",
           "price": 40
         },
         {
           "id": "barbariska",
+          "categoryId": "sirups",
           "displayName": "Барбариска",
           "price": 40
         },
         {
           "id": "fistashka",
+          "categoryId": "sirups",
           "displayName": "Фисташка",
           "price": 40
         },
         {
           "id": "cola",
           "displayName": "Кола",
+          "categoryId": "sirups",
           "price": 40
         },
         {
           "id": "water-melon",
+          "categoryId": "sirups",
           "displayName": "Арбуз",
           "price": 40
         },
         {
           "id": "dinya",
+          "categoryId": "sirups",
           "displayName": "Дыня",
           "price": 40
         },
         {
           "id": "coconut",
+          "categoryId": "sirups",
           "displayName": "Кокос",
           "price": 40
         },
         {
           "id": "busina",
+          "categoryId": "sirups",
           "displayName": "Бузина",
           "price": 40
         },
         {
           "id": "peach",
+          "categoryId": "sirups",
           "displayName": "Персик",
           "price": 40
         },
         {
           "id": "ananas",
+          "categoryId": "sirups",
           "displayName": "Ананас",
           "price": 40
         },
         {
           "id": "peper",
+          "categoryId": "sirups",
           "displayName": "Перец",
           "price": 40
         },
         {
           "id": "sliva",
+          "categoryId": "sirups",
           "displayName": "Слива",
           "price": 40
         },
         {
           "id": "khalva",
+          "categoryId": "sirups",
           "displayName": "Халва",
           "price": 40
         },
         {
           "id": "tundra",
+          "categoryId": "sirups",
           "displayName": "Тундра",
           "price": 40
         },
         {
           "id": "apple",
+          "categoryId": "sirups",
           "displayName": "Яблоко",
           "price": 40
         },
         {
           "id": "bubble-gum",
+          "categoryId": "sirups",
           "displayName": "Бабл гам",
           "price": 40
         },
         {
           "id": "mango",
+          "categoryId": "sirups",
           "displayName": "Манго",
           "price": 40
         },
         {
           "id": "bazan-spices",
+          "categoryId": "sirups",
           "displayName": "Специи базан",
           "price": 40
         },
         {
           "id": "black-smorodina",
+          "categoryId": "sirups",
           "displayName": "Черная смородина",
           "price": 40
         }
