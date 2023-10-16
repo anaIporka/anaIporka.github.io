@@ -113,11 +113,13 @@
       ]
     }
   ],
-  "sirups": [
-    {
-      "id": "",
-      "displayName": "",
-      "price": ""
-    }
-  ]
+  "additional": {
+    "sirups": [
+      {
+        "id": "",
+        "displayName": "",
+        "price": ""
+      }
+    ]
+  }
 }
