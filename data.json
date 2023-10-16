@@ -278,13 +278,213 @@
       ]
     }
   ],
-  "additional": {
-    "sirups": [
-      {
-        "id": "",
-        "displayName": "",
-        "price": "40"
-      }
-    ]
-  }
+  "additional": [
+    {
+      "id": "sirups",
+      "type": "drinks",
+      "displayName": "Сиропы",
+      "products": [
+        {
+          "id": "red-orange",
+          "displayName": "Красный апельсин",
+          "price": 40
+        },
+        {
+          "id": "lesnoy-orekh",
+          "displayName": "Лесной орех",
+          "price": 40
+        },
+        {
+          "id": "banana",
+          "displayName": "Банан",
+          "price": 40
+        },
+        {
+          "id": "lavanda",
+          "displayName": "Лаванда",
+          "price": 40
+        },
+        {
+          "id": "karamel",
+          "displayName": "Карамель",
+          "price": 40
+        },
+        {
+          "id": "salt-karamel",
+          "displayName": "Соленая карамель",
+          "price": 40
+        },
+        {
+          "id": "marakuya",
+          "displayName": "Маракуйя",
+          "price": 40
+        },
+        {
+          "id": "vanil",
+          "displayName": "Ваниль",
+          "price": 40
+        },
+        {
+          "id": "popkorn",
+          "displayName": "Попкорн",
+          "price": 40
+        },
+        {
+          "id": "mint",
+          "displayName": "Мята",
+          "price": 40
+        },
+        {
+          "id": "klenoviy",
+          "displayName": "Кленовый",
+          "price": 40
+        },
+        {
+          "id": "lemongrass",
+          "displayName": "Лемонграсс",
+          "price": 40
+        },
+        {
+          "id": "sgushonka",
+          "displayName": "Сгущенка",
+          "price": 40
+        },
+        {
+          "id": "ejevika",
+          "displayName": "Ежевика",
+          "price": 40
+        },
+        {
+          "id": "vishnya",
+          "displayName": "Вишня",
+          "price": 40
+        },
+        {
+          "id": "malina",
+          "displayName": "Малина",
+          "price": 40
+        },
+        {
+          "id": "irlandskiy",
+          "displayName": "Ирландский",
+          "price": 40
+        },
+        {
+          "id": "mindalniy",
+          "displayName": "Миндальный",
+          "price": 40
+        },
+        {
+          "id": "arahisovoe-oil",
+          "displayName": "Арахисовое масло",
+          "price": 40
+        },
+        {
+          "id": "konfetka-miller",
+          "displayName": "Конфетка Миллер",
+          "price": 40
+        },
+        {
+          "id": "sibirskaya-mint",
+          "displayName": "Сибирская мята",
+          "price": 40
+        },
+        {
+          "id": "grenadine",
+          "displayName": "Гренадин",
+          "price": 40
+        },
+        {
+          "id": "barbariska",
+          "displayName": "Барбариска",
+          "price": 40
+        },
+        {
+          "id": "fistashka",
+          "displayName": "Фисташка",
+          "price": 40
+        },
+        {
+          "id": "cola",
+          "displayName": "Кола",
+          "price": 40
+        },
+        {
+          "id": "water-melon",
+          "displayName": "Арбуз",
+          "price": 40
+        },
+        {
+          "id": "dinya",
+          "displayName": "Дыня",
+          "price": 40
+        },
+        {
+          "id": "coconut",
+          "displayName": "Кокос",
+          "price": 40
+        },
+        {
+          "id": "busina",
+          "displayName": "Бузина",
+          "price": 40
+        },
+        {
+          "id": "peach",
+          "displayName": "Персик",
+          "price": 40
+        },
+        {
+          "id": "ananas",
+          "displayName": "Ананас",
+          "price": 40
+        },
+        {
+          "id": "peper",
+          "displayName": "Перец",
+          "price": 40
+        },
+        {
+          "id": "sliva",
+          "displayName": "Слива",
+          "price": 40
+        },
+        {
+          "id": "khalva",
+          "displayName": "Халва",
+          "price": 40
+        },
+        {
+          "id": "tundra",
+          "displayName": "Тундра",
+          "price": 40
+        },
+        {
+          "id": "apple",
+          "displayName": "Яблоко",
+          "price": 40
+        },
+        {
+          "id": "bubble-gum",
+          "displayName": "Бабл гам",
+          "price": 40
+        },
+        {
+          "id": "mango",
+          "displayName": "Манго",
+          "price": 40
+        },
+        {
+          "id": "bazan-spices",
+          "displayName": "Специи базан",
+          "price": 40
+        },
+        {
+          "id": "black-smorodina",
+          "displayName": "Черная смородина",
+          "price": 40
+        }
+      ]
+    }
+  ]
 }
