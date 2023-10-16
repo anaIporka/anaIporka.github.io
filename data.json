@@ -2,6 +2,7 @@
   "categories": [
     {
       "id": "coffee",
+      "type": "drinks",
       "displayName": "Кофе",
       "products": [
         {
@@ -76,6 +77,7 @@
     },
     {
       "id": "non-coffee",
+      "type": "drinks",
       "displayName": "Не кофе",
       "products": [
         {
@@ -111,6 +113,169 @@
           }
         }
       ]
+    },
+    {
+      "id": "season-drinks",
+      "type": "drinks",
+      "displayName": "Сезонные напитки",
+      "products": [
+        {
+          "id": "raf-shishka-bonus",
+          "displayName": "Раф Шишка+бонус",
+          "prices": {
+            "0,4": 380
+          }
+        },
+        {
+          "id": "latte-na-100-ballov",
+          "displayName": "Латте на 100 баллов",
+          "prices": {
+            "0,4": 330
+          }
+        },
+        {
+          "id": "raf-malina-peach",
+          "displayName": "Раф Малина-Персик",
+          "prices": {
+            "0,4": 370
+          }
+        },
+        {
+          "id": "capuch-oreh-mint",
+          "displayName": "Орех-Мята (Капучино)",
+          "prices": {
+            "0,4": 320
+          }
+        },
+        {
+          "id": "raf-mindal-vishn",
+          "displayName": "Миндально-Вишневый (Раф)",
+          "prices": {
+            "0,4": 360
+          }
+        },
+        {
+          "id": "raf-pryanaya-tikva",
+          "displayName": "Пряная тыква (Латте)",
+          "prices": {
+            "0,4": 300
+          }
+        },
+        {
+          "id": "vishnya-american",
+          "displayName": "Вишня-Американец",
+          "prices": {
+            "0,4": 300
+          }
+        },
+        {
+          "id": "pryaniy-bro",
+          "displayName": "Пряный Bro",
+          "prices": {
+            "0,4": 330
+          }
+        },
+        {
+          "id": "raf-thug-life",
+          "displayName": "Thug Life (Раф)",
+          "prices": {
+            "0,4": 400
+          }
+        },
+        {
+          "id": "super-mint-tea",
+          "displayName": "Супер мятный чай",
+          "prices": {
+            "0,4": 270
+          }
+        },
+        {
+          "id": "chef-coffee",
+          "displayName": "Кофе от Шефа",
+          "prices": {
+            "0,4": 360
+          }
+        },
+        {
+          "id": "latte-klinovaya-melon",
+          "displayName": "Кленовая Дынька (Латте)",
+          "prices": {
+            "0,4": 310
+          }
+        },
+        {
+          "id": "ejevichniy-cappuch",
+          "displayName": "Ежевичный капучино",
+          "prices": {
+            "0,4": 300
+          }
+        },
+        {
+          "id": "latte-fiesta",
+          "displayName": "Fiesta (Латте)",
+          "prices": {
+            "0,4": 330
+          }
+        },
+        {
+          "id": "orange-tea",
+          "displayName": "Цитрусовый чай",
+          "prices": {
+            "0,4": 280
+          }
+        },
+        {
+          "id": "raf-khalva-peach",
+          "displayName": "Раф Халва-Персик",
+          "prices": {
+            "0,4": 360
+          }
+        },
+        {
+          "id": "oblepikh-tea",
+          "displayName": "Облепиховый чай",
+          "prices": {
+            "0,4": 260
+          }
+        }
+      ]
+    },
+    {
+      "id": "food",
+      "type": "food",
+      "displayName": "Еда",
+      "products": [
+        {
+          "id": "sandwich-chicken",
+          "displayName": "Сендвич с курицей",
+          "price": 250
+        },
+        {
+          "id": "sandwich-pork-cheese",
+          "displayName": "Сендвич с Ветчиной и сыром",
+          "price": 260
+        },
+        {
+          "id": "sandwich-pepperony-cheese",
+          "displayName": "Сендвич Салями-пармезан",
+          "price": 280
+        },
+        {
+          "id": "croissant-salmon",
+          "displayName": "Круассан с лососем",
+          "price": 300
+        },
+        {
+          "id": "cheesy-croissant",
+          "displayName": "Круассан сырный",
+          "price": 270
+        },
+        {
+          "id": "veg-croissant",
+          "displayName": "Круассан овощной",
+          "price": 270
+        }
+      ]
     }
   ],
   "additional": {
@@ -118,7 +283,7 @@
       {
         "id": "",
         "displayName": "",
-        "price": ""
+        "price": "40"
       }
     ]
   }
