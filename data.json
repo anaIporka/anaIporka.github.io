@@ -280,8 +280,100 @@
   ],
   "additional": [
     {
+      "id": "milk",
+      "type": "drinks",
+      "multiSelect": false,
+      "priceByDrinkVolume": true,
+      "height": "110px",
+      "displayName": "Молоко",
+      "products": [
+        {
+          "id": "default",
+          "displayName": "Коровье",
+          "prices": {
+            "0,2": 60,
+            "0,3": 70,
+            "0,4": 90,
+            "0,6": 120
+          }
+        },
+        {
+          "id": "coconut",
+          "displayName": "Кокосовое",
+          "prices": {
+            "0,2": 60,
+            "0,3": 70,
+            "0,4": 90,
+            "0,6": 120
+          }
+        },
+        {
+          "id": "midal",
+          "displayName": "Миндальное",
+          "prices": {
+            "0,2": 60,
+            "0,3": 70,
+            "0,4": 90,
+            "0,6": 120
+          }
+        },
+        {
+          "id": "banana-milk",
+          "displayName": "Банановое",
+          "prices": {
+            "0,2": 60,
+            "0,3": 70,
+            "0,4": 90,
+            "0,6": 120
+          }
+        },
+        {
+          "id": "funduchnoe",
+          "displayName": "Фундучное",
+          "prices": {
+            "0,2": 60,
+            "0,3": 70,
+            "0,4": 90,
+            "0,6": 120
+          }
+        },
+        {
+          "id": "bezlaktoz",
+          "displayName": "Безлактозное",
+          "prices": {
+            "0,2": 60,
+            "0,3": 70,
+            "0,4": 90,
+            "0,6": 120
+          }
+        }
+      ]
+    },
+    {
+      "id": "free-addits",
+      "type": "drinks",
+      "renderingDirection": "row",
+      "displayName": "Добавки",
+      "multiSelect": true,
+      "products": [
+        {
+          "id": "korica",
+          "displayName": "Корица",
+          "price": 0
+        },
+        {
+          "id": "sugar",
+          "displayName": "Сахар",
+          "price": 0
+        }
+      ]
+    },
+    {
       "id": "sirups",
       "type": "drinks",
+      "height": "110px",
+      "multiSelect": true,
+      "priceByDrinkVolume": false,
       "displayName": "Сиропы",
       "products": [
         {
